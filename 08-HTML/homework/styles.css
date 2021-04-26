@@ -1,21 +1,38 @@
-.divClass h1{
- color: darkblue;
-}
 
-#spanId{
-    font-size: 18px;
-    margin: 50px;
 
-}
 
-#thirdDiv{
-    height: 600px;
+.divClass {
+    
+    text-align: center;
+    }
+ .divClass h1{
+  color: darkblue;
+ text-align: center;
+ }
+ 
+ #spanId{
+     font-size: 18px;
+     margin: 50px;
+     text-align:  center;
+ 
+ }
+ 
+ #thirdDiv{
+     text-align: center;
+     height: 600px;
+    /* width:500px;*/
      padding: 50px; 
      border: 1px solid darkgreen;
-     width:500px;
+     
     background: darkgoldenrod;  
-}
-
-#thirdDiv img{
-    width: 400px;
-}
+     
+     
+      
+ }
+ 
+ 
+ 
+ #thirdDiv img{
+     width: 400px;
+     
+ }
