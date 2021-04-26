@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(179, 179, 223);
+}
+#titulo img{
+
+    height: 200px;
+    width: 200px;
+
+}
+#titulo{
+    text-align: center;
+    
+}
+
+#Descripcion{
+    
+    text-align: center;
+    border: 1px solid black;
+    padding: 20px;
+    
+}
+
+#Educación{
+    text-align: center;
+    border: 1px solid black;
+}
+
+        
+
+#Experiencias{
+text-align: center;
+border: 1px solid black;
+}
+   
+
+#Skills{
+text-align: center;
+border: 1px solid black;
+}
+
+
+#Hobbies{
+text-align: center;
+border: 1px solid black;
+}
+
+
