@@ -18,11 +18,13 @@
  }
  
  #thirdDiv{
+     position: relative;
+     left: 300px;
      text-align: center;
-     height: 600px;
-    /* width:500px;*/
+     height: 500px;
+     width:600px;
      padding: 50px; 
-     border: 1px solid darkgreen;
+     border: 10px solid darkgreen;
      
     background: darkgoldenrod;  
      
